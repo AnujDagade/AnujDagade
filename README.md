@@ -6,7 +6,7 @@ I am Anuj, currently pursuing my Masters in Computer Science I have always wonde
 
 - 📫 How to reach me:  
  -LinkedIn: [Anuj Dagade](https://www.linkedin.com/in/anuj-dagade)  
- -Website:  &nbsp;[https://anujdagade.xyz](https://anujdagade.xyz) &nbsp; &nbsp; *Currently under development*
+ -Website:  &nbsp;[https://anujdagade.dev](https://anujdagade.dev) &nbsp; &nbsp; *Currently under development*
 
 <!--
 **AnujDagade/AnujDagade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
