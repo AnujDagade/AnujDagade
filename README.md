@@ -2,8 +2,8 @@
 ---
 I am Anuj, currently pursuing my Masters in Computer Science I have always wondered how we can develop such amazing machines called computers. Which is at a very low level just moving electrons here and there. I always wanted to learn how computers work thats why I decided to get into the field of computer science.
 
-[![An image of @anujdagade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anujdagade)](https://holopin.io/@anujdagade)
-
+<!-- [![An image of @anujdagade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anujdagade)](https://holopin.io/@anujdagade)
+-->
 - 📫 How to reach me:  
  -LinkedIn: [Anuj Dagade](https://www.linkedin.com/in/anuj-dagade)  
  -Website:  &nbsp;[https://anujdagade.dev](https://anujdagade.dev) &nbsp; &nbsp; *Currently under development*
